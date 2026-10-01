@@ -1,0 +1,35 @@
+EmployeeName,TerminationDate,AccountNO,BankName,Address,BedNO,RoomNO,BlockNO,PassportIssuePlace,PassportExpiryDate,PassportNo,PassportIssuedDate,TerminationReason,WorkPermitExpiry,Designation,DateOfApplication,DateOfJoining,Age,DOB,HandPhoneNo,FinNo,WorkPermitNo,HomeLeave,PassType,EmployeeCode,PermitIssuedOn,Status
+Guhaneswaran ,16/04/2025,"","","","","","",Singapore,,2342442423,,weeerrwre,,Part Timer htr,02/04/2025,18/04/2022,25,09/07/2001,"",G2909684N,43443,"",Citizen,7DLKO8,15/04/2025,Active
+Dickson,03/01/2024,"","","","","","",Singapore,,"",,Termination,,Store_maganer ,,15/03/2025,26,30/03/2000,"",67876345,"","",Citizen,VEL_0404,,Active
+Praveen Kumar,,"","","","","","",Singapore,,"",,"",,Store_maganer ,,15/03/2025,26,15/03/2000,"",47656,"","",Citizen,8KSSLC,,Active
+Prasanth,,"","","","","","",Bangladesh,,"",,"",,Part Timer htr,,20/02/2025,25,28/03/2001,"",65536,"","",Work Visa,VEL_024,,Active
+Naveen,,"","","","","","",Bangladesh,,"",,"",,Part Timer htr,,09/01/2026,26,23/11/2000,"",563555,"","",Citizen,VEL_023,,Active
+Virat ,,"","","","","","",Bangladesh,,"",,"",,Part Timer htr,,25/03/2025,23,25/03/2003,546546545,545646545,"","",Citizen,VEL_022,,Active
+Ragul Jack,,12345678901234567890123456789012345,12345678901234567890123456789012345,"","","","",Bangladesh,,"",,"",,Store_maganer ,,25/03/2025,25,02/05/2001,52416545,12225567,"","",Citizen,VEL_021,,Active
+Leo dass,01/09/2026,"","","","","","",Bangladesh,,"",,Dickson,,Part Timer htr,,25/03/2025,24,25/03/2002,"","","","",Citizen,8HPEYN,,Active
+Venkatesh,01/09/2026,"","","","","","",Bangladesh,,"",,fndf,,Part Timer htr,,13/09/2021,26,25/03/2000,"","","","",Citizen,VEL_019,,Active
+Ramya,,"","","","","","",Bangladesh,,"",,"",,Store_maganer ,,19/06/2026,0,14/09/2026,654156,12222,"","",Citizen,VEL_018,,Active
+Nivashini ,,"","","","","","",Bangladesh,,"",,"",,Part Timer htr,,09/01/2026,26,01/01/2000,"","","","",Citizen,VEL_017,,Active
+Karthi,,"","","","","","",Bangladesh,,"",,"",,Store_maganer ,,26/03/2025,25,05/12/2001,52156415,122222N,"","",Citizen,VEL_016,,Active
+Sachin ,,0025818178,KVB,"","","","",Bangladesh,29/04/2025,12345678901234567890,,"",29/04/2025,Store_maganer ,,02/03/2025,23,05/12/2003,87854851,123456789012345678290,12345678901234567890,"",Citizen,VEL_015,,Active
+Leenus,,"","","","","","",Bangladesh,,"",,"",,Store_maganer ,,26/03/2025,35,05/12/1991,5418545,"","","",Citizen,VEL_014,,Active
+Suriya ,,"","","","","","",Bangladesh,,"",,"",,Part Timer htr,,01/02/2025,26,10/03/2000,"",4345,"","",OCI,VEL_013,,Active
+Rajini,19/05/2025,"","","","","","",Bangladesh,,"",,nill,,Part Timer htr,,20/11/2025,26,26/03/2000,"","","","",Citizen,VEL_012,,Active
+Kamal,,"","","","","","",Bangladesh,,"",,"",,Part Timer htr,,26/03/2025,26,06/03/2000,"","","","",Citizen,VEL_011,,Active
+Dhoni,,"","","","","","",Bangladesh,,"",,"",,Store_maganer ,,23/10/2025,26,20/03/2000,"","","","",Citizen,VEL_010,,Active
+Sri Haran,27/03/2025,"","","","","","",Bangladesh,,"",,No,,Store_maganer ,,28/03/2025,26,05/12/2000,52146541521,465465465,"","",Citizen,T1AZNX,,Suspended
+Raj,,"","","","","","",Bangladesh,,"",,"",,Store_maganer ,,18/10/2023,26,05/12/2000,7546545155,"","","",Citizen,VEL_009,,Active
+Rohit Sharma ,,"","","","","","",Bangladesh,,"",,"",,Store_maganer ,,27/06/2025,25,11/03/2001,564654165465,"","","",Citizen,VEL_008,,Active
+Hari,,"","","","","","",Bangladesh,,"",,"",,Store_maganer ,,08/10/2024,27,05/12/1999,52165454521,"","","",Citizen,VEL_007,,Active
+Iman vel,,"","","","","","",Bangladesh,,"",,"",,Store_maganer ,,19/09/2025,25,05/12/2001,"","","","",Citizen,VEL_006,,Active
+Surya Kumar,,"","","","","","",Bangladesh,,"",,"",,Part Timer htr,,05/04/2025,55,08/04/1971,"","","","",Citizen,VEL_005,,Active
+Sherayas ,,12345678901234567890123456789012345,12345678901234567890123456789012345,PuduchertCheenaichengalpattu 124,89hyf,123,87,India,17/04/2025,123456789012345678901234567890,17/04/2025,"",17/04/2025,Part Timer htr,17/04/2025,11/08/2025,25,09/07/2001,98000123456,123456789012345678901234567890,12345678901234567890,"",OCI,VEL_001,17/04/2025,Active
+John,,"","","","","","",India,22/04/2029,P123,,"",22/04/2029,Manager,,11/11/2016,39,12/11/1987,"",N1234,"","",Citizen,D123,,Active
+John,,"","","","","","",India,22/04/2029,P123,,"",22/04/2029,Manager,,11/11/2016,39,12/11/1987,"",N1234,"","",Citizen,D1234,,Active
+John,,"","","","","","",India,22/04/2029,P123,,"",22/04/2029,Manager,,23/10/2025,39,12/11/1987,"",N1234,"","",Citizen,D1235,,Active
+John,,"","","","","","",India,22/04/2029,P123,,"",22/04/2029,Manager,,11/11/2016,39,12/11/1987,"",N565865,"","",Citizen,D123456,,Active
+John,,"","","","","","",India,22/04/2029,P123,,"",22/04/2029,Manager,22/04/2000,11/11/2025,39,12/11/1987,"",N1234GRBE,"","",Citizen,D123567,22/04/2000,Active
+John,,"","","","","","",India,22/04/2029,P123,,"",22/04/2029,Manager,,11/11/2016,39,12/11/1987,"",N1234,"","",Citizen,E123456,,Active
+John,,"","","","","","",India,22/04/2029,P123,,"",22/04/2029,Manager,,11/11/2016,39,12/11/1987,"",N1234,"","",Citizen,F123567,,Active
+John,,"","","","","","",India,22/04/2029,P123,,"",22/04/2029,Manager,,11/11/2016,39,12/11/1987,"",N1234,"","",Citizen,F123456,,Active
+John,,"","","","","","",India,22/04/2029,P123,,"",22/04/2029,Manager,,11/11/2016,39,12/11/1987,"",N1234,"","",Citizen,G123567,,Active
