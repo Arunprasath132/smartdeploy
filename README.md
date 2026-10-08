@@ -2,8 +2,8 @@
 
 Generated and deployed by **QASMART.AI - Smart Deploy**.
 
-Deployed: 2026-10-01 12:11 UTC
+Deployed: 2026-10-08 07:45 UTC
 
 ## Contents
 
-- `extras/` - `Certification_Report.xlsx`
+- `extras/` - `Cancel_Preview_for_March_2026.png`
